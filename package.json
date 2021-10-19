@@ -1,7 +1,7 @@
 {
   "name": "brandon-random-messages",
   "version": "1.0.0",
-  "description": "Es un generador de mensajes random",
+  "description": "Package of random messages",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
   "author": "Brandon Argel <brandargel@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-message": "./bin/global.js"
+    "random-messages": "./bin/global.js"
   },
   "preferGlobal": true
 }
